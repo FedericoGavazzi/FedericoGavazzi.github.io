@@ -1,5 +1,5 @@
 body {
-    background-image: url("https://github.com/FedericoGavazzi/TPI_API/blob/main/jokesAPI/black-patterns-4.jpg?raw=true");
+    background-image: url("https://raw.githubusercontent.com/FedericoGavazzi/FedericoGavazzi.github.io/main/images/blackwood-background.jpg");
 }
 
 a {
@@ -26,13 +26,13 @@ a {
 }
 
 #card-body {
-    background-image: url("https://github.com/FedericoGavazzi/TPI_API/blob/main/jokesAPI/background-img.png?raw=true");
+    background-image: url("https://raw.githubusercontent.com/FedericoGavazzi/FedericoGavazzi.github.io/main/images/chat-background.jpg");
 }
 
 #card {
     border-width: 5px;
     margin: 100px;
-    background-image: url("https://github.com/FedericoGavazzi/TPI_API/blob/main/jokesAPI/black-patterns-4.jpg?raw=true");
+    background-image: url("https://raw.githubusercontent.com/FedericoGavazzi/FedericoGavazzi.github.io/main/images/blackwood-background.jpg");
 }
 
 #jokester {
