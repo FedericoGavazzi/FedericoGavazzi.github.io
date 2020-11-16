@@ -1,4 +1,4 @@
-const url = "https://raw.githubusercontent.com/FedericoGavazzi/TPI_API/main/jokes.json";
+const url = "https://raw.githubusercontent.com/FedericoGavazzi/FedericoGavazzi.github.io/main/file/jokes.json";
 const jokeList = document.getElementById("joke_list")
 const drop = document.getElementById("drop-menu")
 let jokes = []
